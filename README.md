@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
 
-![March's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=maoqiqi&line_height=21&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.wasabeef.vercel.app/api/top-langs/?username=maoqiqi&show_icons=true&layout=compact&theme=buefy)
+![March's github stats](https://github-readme-stats.vercel.app/api?username=maoqiqi&line_height=24&show_icons=true&theme=buefy&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoqiqi&show_icons=true&layout=compact&theme=buefy)
 
 <div align=center>
 
